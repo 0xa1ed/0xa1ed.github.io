@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://0xa1ed.github.io
+title: '0xa1ed' 
+subtitle: an outlet for code and ramblings 
+author: '0xa1ed' 
 simple_search: https://www.google.com/search
-description:
+description: 'if !assert(0xa1ed) { goto fail; goto fail; }'
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
